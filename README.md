@@ -30,6 +30,6 @@ python execute_lab0.py
 `build_lab0.py` creates a generic starter template; it does not reproduce
 the final personalized notebook.
 
-Repository: [Shemsanofly/COU07506-labs](https://github.com/Shemsanofly/COU07506-labs).
+Repository: [3xploiter0/COU07506-labs](https://github.com/3xploiter0/COU07506-labs).
 
 [Download the submission ZIP](submission/COU07506_Week01_240242459857_Submission.zip), including the Python program.

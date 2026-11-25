@@ -328,7 +328,7 @@ md(r"""
 
 This work uses the **GitHub repository** option:
 
-[Shemsanofly/COU07506-labs](https://github.com/Shemsanofly/COU07506-labs)
+[3xploiter0/COU07506-labs](https://github.com/3xploiter0/COU07506-labs)
 
 Repository name: **COU07506-labs**. The repository link above is the
 repository reference for this submission. The Week 1 notebook, Octave
